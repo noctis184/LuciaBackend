@@ -16,7 +16,7 @@ public class Config {
     public static MenuApp createMenuApp() {
 
         // Patrón Simple Factory: centraliza la creación de objetos.
-        // Si se cambia una implementación, solo se modifica aquí.
+        // Si se cambia una implementación, solo se modifica aquí.mismo
 
         // Clientes
         Admin admin = new Admin();
